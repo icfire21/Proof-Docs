@@ -1,1 +1,1 @@
-# Proof-Docs
+# Proofs
